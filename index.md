@@ -5,7 +5,7 @@ title: "Home"
 
 # Welcome to My Home Page
 
-This is my personal webpage where I plan to share my work, personal projects or thoughts.
+This is my personal webpage where I plan to share my work, personal projects or just thoughts.
 
 ## Research Work
 
