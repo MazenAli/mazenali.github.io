@@ -1,5 +1,5 @@
-title: "Mazen's Research Page"
-description: "A collection of my academic papers and projects."
+title: "Mazen's Personal Page"
+description: "A collection of my research, code projects and random thoughts."
 baseurl: ""
 url: "https://mazenali.github.io"
 remote_theme: pages-themes/hacker@v0.2.0
