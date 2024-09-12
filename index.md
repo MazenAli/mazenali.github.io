@@ -32,5 +32,5 @@ For feedback or comments, [open an issue here](https://github.com/MazenAli/mazen
 
 ## Contact
 
-Checkout my github projects at https://github.com/MazenAli.
+Checkout my projects on [github](https://github.com/MazenAli).
 Email me at mazen.ali90@gmail.com.
