@@ -9,6 +9,7 @@ This is my personal webpage where I plan to share my work, personal projects or 
 
 ## Research Work
 
+- **[SFFT-based Homogenization: Using Tensor Trains to Enhance FFT-Based Homogenization](https://arxiv.org/abs/2412.11566)**: How to speedup FFT homogenization of material microstructure with Tensor Networks. Most of the work was done by Sascha.
 - **[Piecewise Polynomial Tensor Network Quantum Feature Encoding](https://arxiv.org/abs/2402.07671)**: How to encode piecewise linear functions as quantum features.
 - **[A Performance Study of Variational Quantum Algorithms for Solving the Poisson Equation on a Quantum Computer](https://arxiv.org/abs/2211.14064)**: How good are IBM quantum computers at solving PDEs (not good).
 - **[On the Ordering of Sites in the Density Matrix Renormalization Group using Quantum Mutual Information](https://arxiv.org/abs/2103.01111)**: A slightly more rigorous justification for the way sites are ordered in DMRG *ab initio* quantum chemistry ground state calculations.
